@@ -1,0 +1,11 @@
+inputyear=int(input())
+if(inputyear%4==0):
+  if(inputyear%100==0):
+    if(inputyear%400):
+      print("yes")
+    else:
+      print("no")
+  else:
+    print("yes")
+else:
+  print("no")
