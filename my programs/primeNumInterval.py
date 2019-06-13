@@ -7,4 +7,4 @@ for k in range(num1,num2+1):
       if(k%i==0 or k==num1 or k==num2):
         break
     else:
-      print(k)
+      print(k,end=" ")
