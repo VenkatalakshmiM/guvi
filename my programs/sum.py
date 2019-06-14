@@ -1,2 +1,2 @@
-n11,n22=map(int,input().split())
-print(n11+n22)
+nk,nl=map(int,input().split())
+print(nk+nl)
