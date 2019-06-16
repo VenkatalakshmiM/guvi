@@ -1,0 +1,4 @@
+lst=[]
+num=int(input())
+lst=list(map(int,input().split()))
+print(min(lst),max(lst),end=" ")
