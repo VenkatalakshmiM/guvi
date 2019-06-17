@@ -5,6 +5,6 @@ for i in lst:
   if i==k:
     c=c+1
 if c==0:
-  print("no"
+  print("no")
 else:
   print("yes")
