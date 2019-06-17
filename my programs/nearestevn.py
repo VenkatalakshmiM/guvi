@@ -1,5 +1,5 @@
-n=int(input())
-if n%2==0:
-  print(n)
+n11=int(input())
+if n11%2==0:
+  print(n11)
 else:
-  print(n-1)
+  print(n11-1)
