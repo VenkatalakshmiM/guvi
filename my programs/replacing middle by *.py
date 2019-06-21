@@ -1,4 +1,4 @@
-num=input()
+num=list(input())
 if(len(num)%2==0):
   num[int(len(num)/2)] ='*'
   num[int(len(num)/2)-1]='*'
