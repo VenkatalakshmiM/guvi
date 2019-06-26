@@ -11,5 +11,4 @@ if len(u)==0:
 else:
   u.sort()
   k=set(u)
-  for i in k:
-    print(k,end=" ")
+  print(k,end=" ")
