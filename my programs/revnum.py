@@ -1,3 +1,3 @@
-inputnum=input()
-k=inputnum[::-1]
-print(k)
+inputnum1=input()
+kk=inputnum1[::-1]
+print(kk)
